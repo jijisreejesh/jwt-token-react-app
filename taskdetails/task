@@ -1,0 +1,2 @@
+Create a mern autrhentication system where, upon successful login,a JWT is stored in loacal storage on the frontend and a "home" page is 
+accessible only if the token is valid.also ,include a "logout" button that clears the token from local storage
